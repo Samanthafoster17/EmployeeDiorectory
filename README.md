@@ -17,9 +17,9 @@
 
 - [Questions](#questions)
 
--[Images](#images)
+- [Images](#images)
 
--[Link](#link)
+- [Link](#link)
 
 
 ## Description
